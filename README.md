@@ -2,4 +2,6 @@
 
 Small research project investigating how retrieval depth affects factual reliability in RAG-generated answers.
 
-Placeholder README — expand with experimental details later.
+README — expand with experimental details later.
+
+Ayush Joshi
