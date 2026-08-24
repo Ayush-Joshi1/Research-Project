@@ -5,4 +5,5 @@ numpy
 pandas
 matplotlib
 python-dotenv
+google-genai
 

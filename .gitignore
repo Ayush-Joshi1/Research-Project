@@ -38,3 +38,5 @@ results/
 # OS files
 .DS_Store
 Thumbs.db
+data/index/
+data/processed/raw_scifact/

@@ -1,0 +1,17 @@
+{
+  "dataset_name": "BEIR SciFact (aligned to scifact)",
+  "source": "Hugging Face: BeIR/scifact, BeIR/scifact-qrels, scifact",
+  "random_seed": 42,
+  "selected_queries": 50,
+  "total_corpus_documents": 5183,
+  "total_beir_queries": 1109,
+  "total_qrels_used": 339,
+  "total_original_scifact_claims": 1409,
+  "num_aligned": 300,
+  "num_failed_align": 0,
+  "created_at": "2026-08-22T16:52:56.988149Z",
+  "filtering": {
+    "require_label_support_contradict": true,
+    "require_relevant_doc": true
+  }
+}
