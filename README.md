@@ -222,4 +222,4 @@ In this controlled evaluation, increasing retrieval depth improved observed base
 
 ## Future Work
 
-Potential extensions include larger evaluation sets, repeated runs, statistical testing, stronger rerankers, passage-level retrieval, improved evidence extraction, alternative LLMs, and latency/cost analysis. These were not implemented in this project.
+Potential extensions include larger evaluation sets, repeated runs, statistical testing, stronger rerankers, passage-level retrieval, improved evidence extraction, alternative LLMs, and latency/cost analysis. These were not implemented in this project....
